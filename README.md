@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-10966
-Fork on GitHub
-2757
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Ideal Coding</h1>
 <h3 align="center">MERN Full Stack JavaScript Developer</h3>
 
