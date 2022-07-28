@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **opensource and group projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ideal-Coding-360/Ideal-Coding-360](https://github.com/Ideal-Coding-360/Ideal-Coding-360)
+- 👨‍💻 All of my projects are available at [https://github.com/Ideal-Coding-360](https://github.com/Ideal-Coding-360)
 
 - 📝 I regularly uploads videos on [https://www.youtube.com/channel/UCZtduRnuNuuK0ezlqJrzd6Q](https://www.youtube.com/channel/UCZtduRnuNuuK0ezlqJrzd6Q)
 
