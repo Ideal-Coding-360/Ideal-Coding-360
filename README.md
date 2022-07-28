@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/najmus-shakib-581508207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najmus-shakib-581508207" height="30" width="40" /></a>
 <a href="https://fb.com/najmus.shakib.5876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="najmus.shakib.5876" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucztdurnunuuk0ezlqjrzd6q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucztdurnunuuk0ezlqjrzd6q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZtduRnuNuuK0ezlqJrzd6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCZtduRnuNuuK0ezlqJrzd6Q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
