@@ -1,4 +1,3 @@
-<img src="https://drive.google.com/drive/folders/1Ml92SGXjzVgefTvHf8nJCpbh048qDrtL"/>
 <h1 align="center">Hi 👋, I'm Ideal Coding</h1>
 <h3 align="center">MERN Full Stack JavaScript Developer</h3>
 
