@@ -1,3 +1,4 @@
+![IDEAL CODING](https://user-images.githubusercontent.com/110199597/183263551-71eea1db-d30b-4f2e-91c8-9bf83a2bc8c4.png)
 <h1 align="center">Hi 👋, I'm Ideal Coding</h1>
 <h3 align="center">MERN Full Stack JavaScript Developer</h3>
 
