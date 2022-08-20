@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ideal Coding</h1>
 <h3 align="center">MERN Full Stack JavaScript Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ideal-coding-360&label=Profile%20views&color=0e75b6&style=flat" alt="ideal-coding-360" /> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p>Are you looking for someone to develop your JavaScript programming language knowledge then welcome to my gitHub profile.</p>
 
@@ -21,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/najmus-shakib-581508207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najmus-shakib-581508207" height="30" width="40" /></a>
 <a href="https://fb.com/najmus.shakib.5876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="najmus.shakib.5876" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/najmus-shakib-581508207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najmus-shakib-581508207" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZtduRnuNuuK0ezlqJrzd6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCZtduRnuNuuK0ezlqJrzd6Q" height="30" width="40" /></a>
 </p>
 
